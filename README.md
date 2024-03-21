@@ -24,7 +24,8 @@ pip install pyOpenSSL==22.0.0
 pip install parsel==1.7.0
 
 
-Then set up the scrapy project
+Then set up the scrapy project with:
+
 scrapy startproject shopgrokscraper
 
 ## 2.
