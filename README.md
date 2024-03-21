@@ -28,12 +28,16 @@ Then set up the scrapy project
 scrapy startproject shopgrokscraper
 
 ## 2.
+
+### Spider File
 https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/shopgrokscraper/spiders/tackworldspider.py
 
 Json Output of the Spider:
 https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/tackleworlddata.json
 
 ## 3.
+
+### Spider File
 https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/shopgrokscraper/spiders/surfboardspider.py
 
 Json Output of the Spider:
