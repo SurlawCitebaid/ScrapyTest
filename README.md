@@ -34,7 +34,7 @@ scrapy startproject shopgrokscraper
 https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/shopgrokscraper/spiders/tackworldspider.py
 
 Json Output of the Spider:
-https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/tackleworlddata.json
+https://github.com/SurlawCitebaid/ScrapyTest/blob/a8aebaf86ee1d609fbc06197a5e3914c723ce67d/shopgrokscraper/tackleworlddata.json
 
 ## 3.
 
@@ -42,7 +42,7 @@ https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d04056
 https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/shopgrokscraper/spiders/surfboardspider.py
 
 Json Output of the Spider:
-https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/surfboardempiredata.json 
+https://github.com/SurlawCitebaid/ScrapyTest/blob/a8aebaf86ee1d609fbc06197a5e3914c723ce67d/shopgrokscraper/surfboardempiredata.json 
 
 ## 4.
 https://github.com/SurlawCitebaid/ScrapyTest/blob/492fca0cc8af08b32374ccb2d040566dc4490903/shopgrokscraper/regextest.py
